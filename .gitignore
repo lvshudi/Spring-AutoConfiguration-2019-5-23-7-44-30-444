@@ -29,3 +29,5 @@ gradle/
 
 ### VS Code ###
 .vscode/
+/bin/
+/target/
